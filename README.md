@@ -1,3 +1,6 @@
+# dev-environment-lab
+
+[VS Code File Explorer] (https://i.imgur.com/uqzwRku.png)
 
 ## OS
 
