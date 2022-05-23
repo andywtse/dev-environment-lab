@@ -55,6 +55,7 @@ false
 ## Global Git Ignore
 
 /Users/derpman/.gitignore_global
+
 ## Contents of ~/.gitignore_global
 
 # This is a list of rules for ignoring files in every Git repository on your 
@@ -246,5 +247,3 @@ __pycache__/
 
 #================================== React ====================================#
 .eslintcache
-## Contents of ~/.zshrc
-
